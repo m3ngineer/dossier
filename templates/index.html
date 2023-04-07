@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-  <title>OpenAI Quickstart</title>
+  <title>Dossier - Provider Profiles</title>
   <link
     rel="shortcut icon"
     href="{{ url_for('static', filename='dog.png') }}"
@@ -10,9 +10,10 @@
 
 <body>
   <img src="{{ url_for('static', filename='dog.png') }}" class="icon" />
-  <h3>Name my pet</h3>
+  <h3>Generate biogrpahy</h3>
   <form action="/" method="post">
-    <input type="text" name="animal" placeholder="Enter an animal" required />
+    <input type="text" name="person" placeholder="Enter the name of a provider" required />
+    <input type="text" name="field" placeholder="Medical field" required />
     <input type="submit" value="Generate names" />
   </form>
   {% if result %}
