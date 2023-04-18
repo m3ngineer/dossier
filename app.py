@@ -77,20 +77,3 @@ Overall, Dr. Verret's commitment to improving the lives of patients with HCC has
 """.format(field,
         person.capitalize()
     )
-
-    Here are the facts you should rely on when writing a bio.
-
-urii Gavryliuk, born in Rivne Ukraine in 1991. Started studying double bass at the age of 14 with professor Olga Boichuk
-After 4 years was accepted to Guildhall School of Music and Drama in London where he got the scholarship to study with one of the best bass players in the world, principal bassist of London Symphony Orchestra Rinat Ibragimov.
-During his studies he enjoyed exploring solo repertoire. He also took part in orchestra academies of London Symphony Orchestra and the Orchestra of the Age of Enlightenment.
-In 2015, during his third year of Bachelor studies he got a job in Kremerata Baltica Chamber Orchestra, a string orchestra led by a famous violinist Gidon Kremer.
-During his work with Kremerata Baltica he performed in over 50 countries sharing stage with some of the best musicians in the world.
-
-Don't write the bio yet. Do you understand?
-
-The target audience for this bio are classical music lovers who visit a website or read a program notes before the concert, fellow musicians and classical music industry professionals.
-
-This bio should be written in a humble and professional tone, without exaggerating achievements.
-Begin with a captivating hook
-Present information in a logical orde Include a strong call-to-action to visit a website
-Please write a bio for Iurii Gavryliuk
